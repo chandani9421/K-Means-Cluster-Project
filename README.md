@@ -1,6 +1,4 @@
-# K-Means-Cluster-Project
-.................................................
-
+# K-Means-Cluster-Projet
 
 
 
